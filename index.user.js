@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         华为商城抢购插件
-// @namespace    http://tampermonkey.net/
+// @namespace    http://www.hinjin.com/
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
