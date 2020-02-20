@@ -1,10 +1,13 @@
 // ==UserScript==
 // @name         华为商城抢购插件
-// @namespace    http://www.hinjin.com/
+// @namespace    https://github.com/a6051529/vmall-rush-to-buy
 // @version      0.1
 // @description  try to take over the world!
-// @author       You
-// @match        https://www.vmall.com/product/10086831441169.html
+// @author       hinjin
+// @license      AGPL
+// @match        https://www.vmall.com/product/*.html
+// @supportURL   https://github.com/a6051529/vmall-rush-to-buy
+// @updateURL    https://github.com/a6051529/vmall-rush-to-buy/index.user.js
 // @grant        none
 // ==/UserScript==
 
